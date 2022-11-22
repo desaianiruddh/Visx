@@ -1,11 +1,12 @@
 import './App.css';
+import PieChart from './components/PieChart';
 
 const App = () => {
   return (
     <div>
-      <h1>Hello</h1>
+      <PieChart />
     </div>
   );
-}
+};
 
 export default App;
