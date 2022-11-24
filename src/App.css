@@ -1,0 +1,7 @@
+.controls {
+  font-size: 13px;
+  line-height: 1.5em;
+}
+.controls > div {
+  margin-bottom: 4px;
+}
